@@ -1,0 +1,388 @@
+--------------------------------------------------
+                 MALLOC              
+                size = (2^x)+0           
+--------------------------------------------------
+Iter: 0
+Alloc time = 6166ns	Free time = 7667ns
+Iter: 1
+Alloc time = 1291ns	Free time = 1125ns
+Iter: 2
+Alloc time = 1125ns	Free time = 1125ns
+Iter: 3
+Alloc time = 1167ns	Free time = 1083ns
+Iter: 4
+Alloc time = 1625ns	Free time = 1292ns
+Iter: 5
+Alloc time = 1500ns	Free time = 1083ns
+Iter: 6
+Alloc time = 1375ns	Free time = 1292ns
+Iter: 7
+Alloc time = 1916ns	Free time = 1084ns
+Iter: 8
+Alloc time = 1875ns	Free time = 1125ns
+Iter: 9
+Alloc time = 1834ns	Free time = 1083ns
+Iter: 10
+Alloc time = 1792ns	Free time = 4833ns
+Iter: 11
+Alloc time = 1500ns	Free time = 1375ns
+Iter: 12
+Alloc time = 10000ns	Free time = 1542ns
+Iter: 13
+Alloc time = 7458ns	Free time = 1500ns
+Iter: 14
+Alloc time = 7209ns	Free time = 1416ns
+Iter: 15
+Alloc time = 6917ns	Free time = 1458ns
+Iter: 16
+Alloc time = 7334ns	Free time = 1500ns
+Iter: 17
+Alloc time = 28417ns	Free time = 43167ns
+Iter: 18
+Alloc time = 16708ns	Free time = 11125ns
+Iter: 19
+Alloc time = 15125ns	Free time = 11667ns
+Iter: 20
+Alloc time = 13458ns	Free time = 12959ns
+Iter: 21
+Alloc time = 20584ns	Free time = 19875ns
+Iter: 22
+Alloc time = 18125ns	Free time = 16875ns
+Iter: 23
+Alloc time = 17709ns	Free time = 15709ns
+Iter: 24
+Alloc time = 17500ns	Free time = 16125ns
+Iter: 25
+Alloc time = 17583ns	Free time = 17083ns
+Iter: 26
+Alloc time = 17542ns	Free time = 19458ns
+Iter: 27
+Alloc time = 17916ns	Free time = 22292ns
+Iter: 28
+Alloc time = 17625ns	Free time = 29833ns
+Iter: 29
+Can't allocate:(
+--------------------------------------------------
+                 CALLOC              
+                size = (2^x)+0           
+--------------------------------------------------
+Iter: 0
+Alloc time = 10375ns	Free time = 1417ns
+Iter: 1
+Alloc time = 1417ns	Free time = 1125ns
+Iter: 2
+Alloc time = 1333ns	Free time = 1250ns
+Iter: 3
+Alloc time = 1333ns	Free time = 1084ns
+Iter: 4
+Alloc time = 1292ns	Free time = 1083ns
+Iter: 5
+Alloc time = 1333ns	Free time = 1083ns
+Iter: 6
+Alloc time = 2000ns	Free time = 1083ns
+Iter: 7
+Alloc time = 1708ns	Free time = 1083ns
+Iter: 8
+Alloc time = 1708ns	Free time = 1083ns
+Iter: 9
+Alloc time = 1834ns	Free time = 1084ns
+Iter: 10
+Alloc time = 2083ns	Free time = 2125ns
+Iter: 11
+Alloc time = 2541ns	Free time = 1375ns
+Iter: 12
+Alloc time = 3708ns	Free time = 1375ns
+Iter: 13
+Alloc time = 6541ns	Free time = 1333ns
+Iter: 14
+Alloc time = 18084ns	Free time = 1541ns
+Iter: 15
+Alloc time = 36667ns	Free time = 1667ns
+Iter: 16
+Alloc time = 76125ns	Free time = 1750ns
+Iter: 17
+Alloc time = 173834ns	Free time = 1666ns
+Iter: 18
+Alloc time = 328833ns	Free time = 1666ns
+Iter: 19
+Alloc time = 21333ns	Free time = 11417ns
+Iter: 20
+Alloc time = 13416ns	Free time = 11959ns
+Iter: 21
+Alloc time = 17750ns	Free time = 17000ns
+Iter: 22
+Alloc time = 17792ns	Free time = 16000ns
+Iter: 23
+Alloc time = 17334ns	Free time = 15708ns
+Iter: 24
+Alloc time = 17208ns	Free time = 16250ns
+Iter: 25
+Alloc time = 17209ns	Free time = 17000ns
+Iter: 26
+Alloc time = 17208ns	Free time = 18542ns
+Iter: 27
+Alloc time = 17000ns	Free time = 21917ns
+Iter: 28
+Alloc time = 16833ns	Free time = 28292ns
+Iter: 29
+Can't allocate:(
+--------------------------------------------------
+                 MALLOC              
+                size = (2^x)+1           
+--------------------------------------------------
+Iter: 0
+Alloc time = 1292ns	Free time = 1125ns
+Iter: 1
+Alloc time = 1167ns	Free time = 1125ns
+Iter: 2
+Alloc time = 1167ns	Free time = 1083ns
+Iter: 3
+Alloc time = 1125ns	Free time = 1083ns
+Iter: 4
+Alloc time = 1125ns	Free time = 1083ns
+Iter: 5
+Alloc time = 1125ns	Free time = 1083ns
+Iter: 6
+Alloc time = 1125ns	Free time = 1125ns
+Iter: 7
+Alloc time = 1125ns	Free time = 1083ns
+Iter: 8
+Alloc time = 1125ns	Free time = 1083ns
+Iter: 9
+Alloc time = 1167ns	Free time = 1083ns
+Iter: 10
+Alloc time = 1583ns	Free time = 1416ns
+Iter: 11
+Alloc time = 1375ns	Free time = 1167ns
+Iter: 12
+Alloc time = 1625ns	Free time = 1125ns
+Iter: 13
+Alloc time = 1417ns	Free time = 1208ns
+Iter: 14
+Alloc time = 1416ns	Free time = 1167ns
+Iter: 15
+Alloc time = 3333ns	Free time = 1500ns
+Iter: 16
+Alloc time = 1500ns	Free time = 1167ns
+Iter: 17
+Alloc time = 1375ns	Free time = 1167ns
+Iter: 18
+Alloc time = 1584ns	Free time = 1166ns
+Iter: 19
+Alloc time = 17958ns	Free time = 18125ns
+Iter: 20
+Alloc time = 14834ns	Free time = 13125ns
+Iter: 21
+Alloc time = 18167ns	Free time = 16084ns
+Iter: 22
+Alloc time = 17125ns	Free time = 15750ns
+Iter: 23
+Alloc time = 17416ns	Free time = 16125ns
+Iter: 24
+Alloc time = 17375ns	Free time = 16000ns
+Iter: 25
+Alloc time = 17000ns	Free time = 16875ns
+Iter: 26
+Alloc time = 17292ns	Free time = 18584ns
+Iter: 27
+Alloc time = 17208ns	Free time = 21583ns
+Iter: 28
+Alloc time = 17291ns	Free time = 28458ns
+Iter: 29
+Can't allocate:(
+--------------------------------------------------
+                 CALLOC              
+                size = (2^x)+1           
+--------------------------------------------------
+Iter: 0
+Alloc time = 2292ns	Free time = 1375ns
+Iter: 1
+Alloc time = 1334ns	Free time = 1084ns
+Iter: 2
+Alloc time = 1291ns	Free time = 1417ns
+Iter: 3
+Alloc time = 1709ns	Free time = 1125ns
+Iter: 4
+Alloc time = 1333ns	Free time = 1125ns
+Iter: 5
+Alloc time = 1709ns	Free time = 1084ns
+Iter: 6
+Alloc time = 1583ns	Free time = 1083ns
+Iter: 7
+Alloc time = 1666ns	Free time = 1125ns
+Iter: 8
+Alloc time = 1709ns	Free time = 1292ns
+Iter: 9
+Alloc time = 5958ns	Free time = 1083ns
+Iter: 10
+Alloc time = 2167ns	Free time = 2417ns
+Iter: 11
+Alloc time = 2417ns	Free time = 1375ns
+Iter: 12
+Alloc time = 3667ns	Free time = 1333ns
+Iter: 13
+Alloc time = 6167ns	Free time = 1333ns
+Iter: 14
+Alloc time = 11250ns	Free time = 1458ns
+Iter: 15
+Alloc time = 21583ns	Free time = 1541ns
+Iter: 16
+Alloc time = 43625ns	Free time = 1583ns
+Iter: 17
+Alloc time = 86792ns	Free time = 1584ns
+Iter: 18
+Alloc time = 173792ns	Free time = 1541ns
+Iter: 19
+Alloc time = 13625ns	Free time = 11917ns
+Iter: 20
+Alloc time = 13125ns	Free time = 12459ns
+Iter: 21
+Alloc time = 17208ns	Free time = 15792ns
+Iter: 22
+Alloc time = 17166ns	Free time = 15625ns
+Iter: 23
+Alloc time = 17292ns	Free time = 15584ns
+Iter: 24
+Alloc time = 17500ns	Free time = 16250ns
+Iter: 25
+Alloc time = 17250ns	Free time = 16708ns
+Iter: 26
+Alloc time = 17333ns	Free time = 18500ns
+Iter: 27
+Alloc time = 17625ns	Free time = 21917ns
+Iter: 28
+Alloc time = 17458ns	Free time = 28291ns
+Iter: 29
+Can't allocate:(
+--------------------------------------------------
+                 ALLOCA              
+                size = (2^x)+0           
+--------------------------------------------------
+Iter: 0
+Alloc time = 1292ns	Free time = 0ns
+Iter: 1
+Alloc time = 1042ns	Free time = 0ns
+Iter: 2
+Alloc time = 1000ns	Free time = 0ns
+Iter: 3
+Alloc time = 1000ns	Free time = 0ns
+Iter: 4
+Alloc time = 1041ns	Free time = 0ns
+Iter: 5
+Alloc time = 1041ns	Free time = 0ns
+Iter: 6
+Alloc time = 1041ns	Free time = 0ns
+Iter: 7
+Alloc time = 1041ns	Free time = 0ns
+Iter: 8
+Alloc time = 1042ns	Free time = 0ns
+Iter: 9
+Alloc time = 1042ns	Free time = 0ns
+Iter: 10
+Alloc time = 1041ns	Free time = 0ns
+Iter: 11
+Alloc time = 1042ns	Free time = 0ns
+Iter: 12
+Alloc time = 1042ns	Free time = 0ns
+Iter: 13
+Alloc time = 1000ns	Free time = 0ns
+Iter: 14
+Alloc time = 1000ns	Free time = 0ns
+Iter: 15
+Alloc time = 1042ns	Free time = 0ns
+Iter: 16
+Alloc time = 1041ns	Free time = 0ns
+Iter: 17
+Alloc time = 1042ns	Free time = 0ns
+Iter: 18
+Alloc time = 1041ns	Free time = 0ns
+Iter: 19
+Alloc time = 1000ns	Free time = 0ns
+Iter: 20
+Alloc time = 1042ns	Free time = 0ns
+Iter: 21
+Alloc time = 1042ns	Free time = 0ns
+Iter: 22
+Alloc time = 1042ns	Free time = 0ns
+Iter: 23
+Alloc time = 1041ns	Free time = 0ns
+Iter: 24
+Alloc time = 1042ns	Free time = 0ns
+Iter: 25
+Alloc time = 1042ns	Free time = 0ns
+Iter: 26
+Alloc time = 1042ns	Free time = 0ns
+Iter: 27
+Alloc time = 1041ns	Free time = 0ns
+Iter: 28
+Alloc time = 1000ns	Free time = 0ns
+Iter: 29
+Alloc time = 1000ns	Free time = 0ns
+Iter: 30
+Alloc time = 1041ns	Free time = 0ns
+Iter: 31
+Alloc time = 1042ns	Free time = 0ns
+Iter: 32
+Alloc time = 1000ns	Free time = 0ns
+Iter: 33
+Alloc time = 1000ns	Free time = 0ns
+Iter: 34
+Alloc time = 1042ns	Free time = 0ns
+Iter: 35
+Alloc time = 1583ns	Free time = 0ns
+Iter: 36
+Alloc time = 1042ns	Free time = 0ns
+Iter: 37
+Alloc time = 1042ns	Free time = 0ns
+Iter: 38
+Alloc time = 1000ns	Free time = 0ns
+Iter: 39
+Alloc time = 1000ns	Free time = 0ns
+Iter: 40
+Alloc time = 1042ns	Free time = 0ns
+Iter: 41
+Alloc time = 1000ns	Free time = 0ns
+Iter: 42
+Alloc time = 1042ns	Free time = 0ns
+Iter: 43
+Alloc time = 1041ns	Free time = 0ns
+Iter: 44
+Alloc time = 1041ns	Free time = 0ns
+Iter: 45
+Alloc time = 1041ns	Free time = 0ns
+Iter: 46
+Alloc time = 1000ns	Free time = 0ns
+Iter: 47
+Alloc time = 1042ns	Free time = 0ns
+Iter: 48
+Alloc time = 1042ns	Free time = 0ns
+Iter: 49
+Alloc time = 1000ns	Free time = 0ns
+Iter: 50
+Alloc time = 1042ns	Free time = 0ns
+Iter: 51
+Alloc time = 1042ns	Free time = 0ns
+Iter: 52
+Alloc time = 1041ns	Free time = 0ns
+Iter: 53
+Alloc time = 1041ns	Free time = 0ns
+Iter: 54
+Alloc time = 1000ns	Free time = 0ns
+Iter: 55
+Alloc time = 1000ns	Free time = 0ns
+Iter: 56
+Alloc time = 1042ns	Free time = 0ns
+Iter: 57
+Alloc time = 1042ns	Free time = 0ns
+Iter: 58
+Alloc time = 1042ns	Free time = 0ns
+Iter: 59
+Alloc time = 1000ns	Free time = 0ns
+Iter: 60
+Alloc time = 1041ns	Free time = 0ns
+Iter: 61
+Alloc time = 1000ns	Free time = 0ns
+Iter: 62
+Alloc time = 1041ns	Free time = 0ns
+Iter: 63
+Alloc time = 1042ns	Free time = 0ns
