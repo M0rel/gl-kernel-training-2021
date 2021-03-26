@@ -24,7 +24,9 @@ In this homework we will use RTC board connected to I2C2 bus:
 
 ![RTC board to BBB connection](./images/BBB-RTC.jpg)
 
+<<<<<<< HEAD
 :exclamation: BBB configuration EEPROM is placed on I2C0 bus. Beware of changing its contents!
+=======
 
 ---
 
